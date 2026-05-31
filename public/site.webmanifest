@@ -1,0 +1,16 @@
+{
+  "name": "LG Inter",
+  "short_name": "LG Inter",
+  "description": "Next.js 기반 LG Inter 웹 플랫폼",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0b1020",
+  "theme_color": "#5b8cff",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
